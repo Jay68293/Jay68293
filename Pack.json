@@ -1,14 +1,20 @@
 [
   {
     "type": "Wine",
-    "verName": "35proton-11-arm64ec",
+    "verName": "p1135arm",
     "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/releases/download/1.0/proton-10-arm64ec.wcp.xz"
+    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/1/p1135arm.xz"
   },
   
   {
     "type": "Wine",
-    "verName": "35proton-11-x86_64",
+    "verName": "p113564",
     "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/releases/download/1.0/wine-9.20.wcp"
+    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/1/p113564.xz"
+  },
+
+      "type": "Wine",
+    "verName": "p1035arm414",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/1/p1035arm414.wcp"
   },
