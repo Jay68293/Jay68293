@@ -24,14 +24,21 @@
       "type": "Wine",
     "verName": "p1028arm-503",
     "verCode": "1",
-    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/1/p1028arm-503.xz"
+    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/1/p1028arm-503.wcp"
   },
 
   {
     "type": "Wine",
     "verName": "p1028arm-414",
     "verCode": "1",
-    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/1/p1028arm-414.xz"
+    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/1/p1028arm-414.wcp"
   },  
 
+  {
+    "type": "Wine",
+    "verName": "p10435arm-607",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/1/p10435arm-607.wcp"
+  },
+  
 ]
