@@ -40,5 +40,82 @@
     "verCode": "1",
     "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/1/p10435arm-607.wcp"
   },
+
+  {
+    "type": "DXVK",
+    "verName": "dxvk-2.4.1-arm64ec-gplasync.wcp",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/2/dxvk-2.4.1-arm64ec-gplasync.wcp"
+  },
+
+  {
+    "type": "DXVK",
+    "verName": "dxvk-gplasync-arm64ec-2.4.1-1.wcp",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/2/dxvk-gplasync-arm64ec-2.4.1-1.wcp"
+  },
+
+  {
+    "type": "DXVK",
+    "verName": "dxvk-gplasync-arm64ec-2.4.1-1-pre-reg.wcp",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/2/dxvk-gplasync-arm64ec-2.4.1-1-pre-reg.wcp"
+  },
+
+  {
+    "type": "DXVK",
+    "verName": "dxvk-2.6-arm64ec-gplasync.wcp",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/2/dxvk-2.6-arm64ec-gplasync.wcp"
+  },
+
+  {
+    "type": "DXVK",
+    "verName": "dxvk-gplasync-arm64ec-2.6-1.wcp",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/2/dxvk-gplasync-arm64ec-2.6-1.wcp"
+  },
+
+  {
+    "type": "DXVK",
+    "verName": "dxvk-2.6.2-arm64ec-gplasync.wcp",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/2/dxvk-2.6.2-arm64ec-gplasync.wcp"
+  },
+
+  {
+    "type": "DXVK",
+    "verName": "dxvk-gplasync-arm64ec-2.6.2-1.wcp",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/2/dxvk-gplasync-arm64ec-2.6.2-1.wcp"
+  },
+
+  {
+    "type": "DXVK",
+    "verName": "dxvk-gplasync-arm64ec-2.7.1-1.wcp",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/2/dxvk-gplasync-arm64ec-2.7.1-1.wcp"
+  },
+
+  {
+    "type": "DXVK",
+    "verName": "dxvk-2.7.3-vegas-e90824c.wcp",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/2/dxvk-2.7.3-vegas-e90824c.wcp"
+  },
+
+  {
+    "type": "DXVK",
+    "verName": "dxvk-2.7.3-vegas-ff4c1fe.wcp",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/2/dxvk-2.7.3-vegas-ff4c1fe.wcp"
+  },
+
+  {
+    "type": "DXVK",
+    "verName": "vegas-2.7.3-ff4c1fe.wcp",
+    "verCode": "1",
+    "remoteUrl": "https://github.com/Jay68293/Jay68293/releases/download/2/vegas-2.7.3-ff4c1fe.wcp"
+  },
   
 ]
